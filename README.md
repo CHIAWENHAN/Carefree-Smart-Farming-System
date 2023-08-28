@@ -20,9 +20,10 @@ Utilize the Free Blynk IoT Platform to create an Urban Lifestyle carefree smart 
 ![System Architechture](https://github.com/CHIAWENHAN/Carefree-Smart-Farming-System/blob/b00abd828a804d2427683e92c6f83c240e8666e8/System%20Architechture.png)
 
 # Dashboard
-![Blynk Dasboard](https://github.com/CHIAWENHAN/Carefree-Smart-Farming-System/blob/7e7be9599e27225e5b2fec2aa9e2e8de8e07a866/IDP%20Dashboard.png)
-[Dashboard Link](https://blynk.cloud/dashboard/85571/global/filter/devices/organization/85571/devices/284809/dashboard)
 An authentication token by the master is needed to become co-develop the dashboard.
+[Dashboard Link](https://blynk.cloud/dashboard/85571/global/filter/devices/organization/85571/devices/284809/dashboard)
+![Blynk Dasboard](https://github.com/CHIAWENHAN/Carefree-Smart-Farming-System/blob/7e7be9599e27225e5b2fec2aa9e2e8de8e07a866/IDP%20Dashboard.png)
+
 
 # Challenge
 Unstable internet connection due to hardware and cost limitation
