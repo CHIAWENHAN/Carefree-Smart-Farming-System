@@ -21,10 +21,13 @@ Utilize the Free Blynk IoT Platform to create an Urban Lifestyle carefree smart 
 
 # Dashboard
 ![Blynk Dasboard](https://github.com/CHIAWENHAN/Carefree-Smart-Farming-System/blob/7e7be9599e27225e5b2fec2aa9e2e8de8e07a866/IDP%20Dashboard.png)
-Available in https://blynk.cloud/dashboard/85571/global/filter/devices/organization/85571/devices/284809/dashboard
+[Dashboard Link](https://blynk.cloud/dashboard/85571/global/filter/devices/organization/85571/devices/284809/dashboard)
+An authentication token by the master is needed to become co-develop the dashboard.
 
 # Challenge
-
+Unstable internet connection due to hardware and cost limitation
 
 # What's Next
 "Data is just like crude. It’s valuable, but if unrefined it cannot really be used." - Michael Palmer
+- The data can be used to develop machine learning model to find out the suitable irrigation periods and temperatures for certain urban crops.
+- Use of establish cloud service provider to development of IoT backend.
