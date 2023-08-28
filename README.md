@@ -12,8 +12,9 @@ Utilize the Free Blynk IoT Platform to create an Urban Lifestyle carefree smart 
 -only minimal maintenance which is refilling the fertilizer container once a month and replenishing the big water tank when it is out of water. 
 
 
-#System Architechture
-![System Architechture](./System Architechture.png)
+# System Architechture
+
+![System Architechture](System Architechture.png)
 
 # Dashboard
 
